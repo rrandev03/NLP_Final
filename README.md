@@ -32,7 +32,7 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 
 ## Features
 
-- **Sentiment Analysis**: Classifies tweets into positive, neutral, and negative categories.
+- **Sentiment Analysis**: Classifies tweets into positive, neutral, and negative categories
 - **Time Trend Analysis**: Examines sentiment evolution over time in response to key events and policies
 - **Data Preprocessing**: Includes text cleaning, tokenization, and normalization
 - **Performance Comparison**: Evaluate and compare the performance of BERT, RoBERTa, and VADER
