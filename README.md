@@ -54,6 +54,8 @@ To run the notebooks, ensure the following Python packages are installed:
    pip install tensorflow
    pip install emoji
    pip install nltk
+   pip install seaborn
+   pip install torch
    ```
 
 
