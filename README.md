@@ -44,7 +44,6 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 To run the notebooks, ensure you have the following Python packages installed:
 
 ### Required Special Python Libraries
-1. **vaderSentiment**: For sentiment analysis using VADER.
    ```bash
    pip install vaderSentiment
    pip install pandas
@@ -52,6 +51,7 @@ To run the notebooks, ensure you have the following Python packages installed:
    pip install matplotlib
    pip install scikit-learn
    pip install transformers
+   ```
 
 
 
