@@ -35,13 +35,13 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 - **Sentiment Analysis**: Classifies tweets into positive, neutral, and negative categories.
 - **Time Trend Analysis**: Examines sentiment evolution over time in response to key events and policies
 - **Data Preprocessing**: Includes text cleaning, tokenization, and normalization
-- **Performance Comparison**: Evaluate and compares the performance of BERT, RoBERTa, and VADER
+- **Performance Comparison**: Evaluate and compare the performance of BERT, RoBERTa, and VADER
 
 ---
 
 ## Dependencies and Installation
 
-To run the notebooks, ensure you have the following Python packages installed:
+To run the notebooks, ensure the following Python packages are installed:
 
 ### Required Special Python Libraries
    ```bash
