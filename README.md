@@ -41,9 +41,6 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 
 ## Dependencies and Installation
 
-To run the notebooks, ensure the following Python packages are installed:
-
-### Required Special Python Libraries
    ```bash
    pip install vaderSentiment
    pip install pandas
