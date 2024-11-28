@@ -10,7 +10,7 @@
 ---
 ## Overview
 
-This repository explores public sentiment regarding electric vehicles (EVs) on Twitter using advanced NLP tools. The study focuses on how sentiment shifted between January 2020 and December 2022, influenced by significant policies like the Biden administration’s "Build Back Better" agenda.
+This repository explores public sentiment regarding electric vehicles (EVs) on Twitter using advanced NLP tools. The study focuses on how sentiment shifted between January 2020 and December 2023, influenced by significant policies like the Biden administration’s "Build Back Better" agenda.
 
 In this project, we used transformer-based models (BERT and RoBERTa) and VADER to classify tweets into positive, neutral, and negative sentiments. The analysis examines the relationship between public sentiment, government policies, and the broader adoption of sustainable transportation.
 
@@ -51,6 +51,9 @@ To run the notebooks, ensure the following Python packages are installed:
    pip install matplotlib
    pip install scikit-learn
    pip install transformers
+   pip install tensorflow
+   pip install emoji
+   pip install nltk
    ```
 
 
