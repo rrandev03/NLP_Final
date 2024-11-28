@@ -1,4 +1,4 @@
-# NLP_Final: Social Media Sentiment Analysis of Electric Vehicles Using BERT, RoBERTa, & VADER
+# Social Media Sentiment Analysis of Electric Vehicles: Leveraging BERT, RoBERTa, and VADER
 ---
 
 ## Authors
