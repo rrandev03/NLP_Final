@@ -22,7 +22,7 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 - BERT and RoBERTa models for sentiment classification using labeled real and synthetic tweet data.
 
 ### 2. **VADER Sentiment Analysis Notebook**
-- Applies VADER to classify sentiment and establish a  comparison with transformer models and contains visualizations.
+- Applies VADER to classify sentiment and establish a comparison containing visualizations.
 
 ### 3. **Dataset Details**
 - **Real Data**: 83,591 tweets collected via Octoparse, filtered for relevance to electric vehicles.
@@ -35,7 +35,7 @@ In this project, we used transformer-based models (BERT and RoBERTa) and VADER t
 - **Sentiment Analysis**: Classifies tweets into positive, neutral, and negative categories.
 - **Time Trend Analysis**: Examines sentiment evolution over time in response to key events and policies
 - **Data Preprocessing**: Includes text cleaning, tokenization, and normalization
-- **Performance Comparison**: Evaluates and compares the performance of BERT, RoBERTa, and VADER
+- **Performance Comparison**: Evaluate and compares the performance of BERT, RoBERTa, and VADER
 
 ---
 
