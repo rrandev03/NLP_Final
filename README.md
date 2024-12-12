@@ -7,6 +7,10 @@
 - **Rishika Randev**  
 - **Eric Ortega Rodriguez**  
 - **Fan Xu**
+  
+![turtles](https://github.com/user-attachments/assets/977834d1-3164-46f5-9e35-422460dc49ca)
+
+
 ---
 ## Overview
 
