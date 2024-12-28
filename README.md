@@ -2,7 +2,6 @@
 ---
 
 ## Authors
-
 - **Loo Si Min (Lucy)**  
 - **Rishika Randev**  
 - **Eric Ortega Rodriguez**  
